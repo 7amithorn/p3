@@ -7,7 +7,7 @@ import time
 import ventris.ntrface as n
 
 import graphics
-import aux
+import auxf as aux
 
 dtheme = [(255,255,255)] + ([(0,0,0)] * 4)
 
